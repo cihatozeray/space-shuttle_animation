@@ -4,7 +4,7 @@ Created on Mon Sep 21 15:31:11 2020
 
 @author: Cihat Özeray
 
-tkinter ile canvas kullanımı
+Tkinter canvas study
 """
 
 from tkinter import Tk, Canvas, mainloop
