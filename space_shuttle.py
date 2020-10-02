@@ -358,7 +358,7 @@ def dispatch():
         fire3()
     fire_core()
     create_spaceshuttle(300)
-    master.after(150, dispatch) # 0.2 seconds
+    master.after(150, dispatch) # 0.15 seconds
 
 
 dispatch()
