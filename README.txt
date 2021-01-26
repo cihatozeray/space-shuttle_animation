@@ -1,4 +1,4 @@
-# space-shuttle_animation
+# space_shuttle_animation
 Tkinter animation
 
 -------
