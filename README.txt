@@ -3,7 +3,7 @@ Tkinter animation
 
 -------
 
-Space shuttle consists of polygons two functions 2 functions
+Space shuttle consists of polygons created by mainly 2 functions
 
 -------
 
